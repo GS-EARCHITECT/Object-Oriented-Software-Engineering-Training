@@ -1,2 +1,2 @@
-# MBSE
-Model Based Software Engineering
+# Training material for Concepts, Processes, Notation & Tools
+
